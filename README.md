@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PDFBC
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any blockchain
+- 👀 I’m interested in developing web apps that use Bitcoin
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me philfonseca97@gmail.com
 
 <!---
